@@ -1,77 +1,86 @@
 {
   "jogadores": [
     {
-      "nome": "fasdfasd",
-      "timeId": 3,
+      "nome": "Gabi gol",
+      "timeId": 1,
       "id": 1
     },
     {
-      "nome": "dfdf",
-      "timeId": 11,
+      "nome": "Nene",
+      "timeId": 2,
       "id": 2
     },
     {
-      "timeId": 13,
-      "nome": "Gabi golh ",
+      "nome": "Ganso",
+      "timeId": 3,
       "id": 3
+    },
+    {
+      "nome": "Chay",
+      "timeId": 4,
+      "id": 4
+    },
+    {
+      "nome": "Leo",
+      "timeId": 5,
+      "id": 5
+    },
+    {
+      "nome": "Thiago",
+      "timeId": 6,
+      "id": 6
+    },
+    {
+      "nome": "Eduardo Barbaro ",
+      "timeId": 7,
+      "id": 7
+    },
+    {
+      "nome": "Eduardo da Silva",
+      "timeId": 7,
+      "id": 8
     }
   ],
   "times": [
     {
-      "nome": "asdasdsad",
+      "nome": "Flamengo",
+      "cidade": "Rio de Janeiro",
       "id": 1
     },
     {
-      "nome": "asdasdsadasdasd",
+      "nome": "Vasco",
+      "cidade": "Rio de Janeiro",
       "id": 2
     },
     {
-      "nome": "asdasdasdasdsadasdasd",
+      "nome": "Fluminense ",
+      "cidade": "Rio de Janeiro",
       "id": 3
     },
     {
-      "nome": "asdasdasdasdsadasdasd",
+      "nome": "Botafogo",
+      "cidade": "Rio de Janeiro",
       "id": 4
     },
     {
-      "nome": "asdasd",
+      "nome": "Coritiba FC",
+      "cidade": "Curitiba",
       "id": 5
     },
     {
-      "nome": "",
+      "nome": "Atlhetico Parana",
+      "cidade": "Curitiba",
       "id": 6
     },
     {
-      "nome": "sadasdad",
+      "nome": "JEC Krona",
+      "cidade": "Joinville",
       "id": 7
     },
     {
-      "nome": "tyrty",
+      "nome": "JEC ",
+      "cidade": "Joinville",
       "id": 8
-    },
-    {
-      "nome": "sadsa",
-      "id": 9
-    },
-    {
-      "nome": "erwrwer",
-      "cidade": "werwer",
-      "id": 10
-    },
-    {
-      "nome": "jec",
-      "cidade": "poA",
-      "id": 11
-    },
-    {
-      "nome": "jiojio",
-      "cidade": "jiojio",
-      "id": 12
-    },
-    {
-      "nome": "Flamengo",
-      "cidade": "Rio de Janeiro",
-      "id": 13
     }
   ]
 }
